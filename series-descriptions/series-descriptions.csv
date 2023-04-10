@@ -1,0 +1,9 @@
+Time Series,Behaviour,,,Frequency,Mean,Median,Std,Size
+Traffic 1,,Stationary,,Minutes,222.392,220.583,12.42,721
+Traffic 2,Seasonality,Non-Stationary,,-,139.128,143.117,10.188,721
+Traffic 3,Seasonality,Non-Stationary,Trend,-,74.175,71.992,9.81,720
+Traffic 4,Seasonality,Non-Stationary,,-,50.75,54.367,11.69,721
+Traffic 5,Seasonality,Stationary,,-,219.579,222.43,69.082,719
+Traffic 6,Seasonality,Non-Stationary,,-,111.599,44.29,87.337,713
+Traffic 7,Seasonality,Non-Stationary,,-,4.669,4.677,1.285,721
+Traffic 8,,Stationary,,-,151.233,151.442,8.202,721
